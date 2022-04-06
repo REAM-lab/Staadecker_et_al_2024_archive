@@ -1,0 +1,9 @@
+fuel,co2_intensity,upstream_co2_intensity
+Bio_Gas,0.0,0.0
+Bio_Liquid,0.0,0.0
+Bio_Solid,0.0,0.0
+Coal,0.09552,0.0
+DistillateFuelOil,0.07315,0.0
+Gas,0.05306,0.0
+ResidualFuelOil,0.0788,0.0
+Uranium,0.0,0.0

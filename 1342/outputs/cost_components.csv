@@ -1,0 +1,7 @@
+component,npv_cost
+EmissionsCosts,0
+FuelCostsPerPeriod,1.4803e+09
+GenVariableOMCostsInTP,2.7304e+08
+StorageEnergyFixedCost,8.2487e+09
+TotalGenFixedCosts,9.1592e+10
+TxFixedCosts,3.4615e+09

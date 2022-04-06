@@ -1,0 +1,18 @@
+##########
+1. General
+##########
+
+Host name: shasta-db1
+Git Commit: 9e47e0715aa8b30a847e0d0268faa90114538b81
+Git Branch: all-updates
+Total run time: 1 h 25 min 1.95 s
+End date: 2021-08-07
+End time: 08:35:43
+
+##########
+2. Results
+##########
+
+Total Cost: $ 105055721580.85
+CO2 Emissions: No Emissions
+

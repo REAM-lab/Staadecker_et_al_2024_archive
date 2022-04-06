@@ -1,0 +1,7 @@
+BALANCING_AREAS,quickstart_res_load_frac,quickstart_res_wind_frac,quickstart_res_solar_frac,spinning_res_load_frac,spinning_res_wind_frac,spinning_res_solar_frac
+AZNMSNV,0.03,0.05,0.05,.,.,.
+NWPP_CAN,0.03,0.05,0.05,.,.,.
+CA,0.03,0.05,0.05,.,.,.
+RMPA,0.03,0.05,0.05,.,.,.
+NWPP,0.03,0.05,0.05,.,.,.
+MX,0.03,0.05,0.05,.,.,.

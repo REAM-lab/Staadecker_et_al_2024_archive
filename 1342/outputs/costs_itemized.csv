@@ -1,0 +1,7 @@
+PERIOD,Component,Component_type,AnnualCost_NPV,AnnualCost_Real
+2050,TotalGenFixedCosts,annual,9.1592e+10,4.6499e+10
+2050,StorageEnergyFixedCost,annual,8.2487e+09,4.1876e+09
+2050,FuelCostsPerPeriod,annual,1.4803e+09,7.5151e+08
+2050,TxFixedCosts,annual,3.4615e+09,1.7573e+09
+2050,EmissionsCosts,annual,0,0
+2050,GenVariableOMCostsInTP,timepoint,2.7304e+08,1.3862e+08
