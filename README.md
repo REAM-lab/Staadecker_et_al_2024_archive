@@ -1,6 +1,11 @@
 # Archive for Staadecker et al. "The Value of Long-Duration Energy Storage and its Interaction with a Zero-Emissions Electricity Grid"
 
-## Document description
+This repository stores the configuration files used in the paper "The Value of Long-Duration Energy Storage and its Interaction with a Zero-Emissions Electricity Grid".
+
+The baseline scenario input and output files are also given as examples. The model code used to generate all the scenarios input and output
+files is available in the REAM-lab/switch repo [here](https://github.com/REAM-lab/switch/releases/tag/v2.0.0) (v2.0.0).
+
+## Respository structure
 
 ### `zonal_capacity_factors.csv`
 
