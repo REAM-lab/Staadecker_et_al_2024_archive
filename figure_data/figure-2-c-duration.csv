@@ -1,0 +1,5 @@
+scenario_index,<10h Storage (GW),10 - 20h Storage (GW),20+h Storage (GW)
+"No build costs
+(so no congestion)",0.7278808634274977,0.2641141694676742,0.0
+Baseline,0.9222323430081478,0.07776765699185222,0.0
+10x increase,0.8693963451390956,0.22640098225468783,0.0

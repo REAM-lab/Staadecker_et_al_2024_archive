@@ -46,3 +46,7 @@ This spreadsheet keeps track of all the scenarios we ran and importantly which s
 ### `/scenario-configurations`
 
 This folder contains the input `config.yaml` files for each scenario. These files specify how the input data is generated.
+
+### `/figure_data`
+
+This folder contains the raw data that underlies each figure in the main text.
