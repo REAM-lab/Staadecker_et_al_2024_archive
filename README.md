@@ -33,10 +33,10 @@ To undo the file-splitting operation, simply run
 
 ```
 cd inputs
-cat variable_capacity_factors_a.csv variable_capacity_factors_b.csv variable_capacity_factors_c.csv variable_capacity_factors_d.csv > variable_capacity_factors.csv
+cat variable_capacity_factors_?.csv > variable_capacity_factors.csv
 cd ../outputs
-cat dispatch_a.csv dispatch_b.csv dispatch_c.csv dispatch_d.csv dispatch_e.csv dispatch_f.csv dispatch_g.csv dispatch_h.csv dispatch_i.csv dispatch_j.csv dispatch_k.csv dispatch_l.csv dispatch_m.csv dispatch_n.csv dispatch_o.csv > dispatch.csv
-cat DispatchGen_a.csv DispatchGen_b.csv DispatchGen_c.csv DispatchGen_d.csv > DispatchGen.csv
+cat dispatch_?.csv > dispatch.csv
+cat DispatchGen_?.csv > DispatchGen.csv
 ```
 
 ### `Scenario Tracker.xlsx`
